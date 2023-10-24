@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         view.backgroundColor = .orange
         
         view.backgroundColor = .cyan
+        
+        view.backgroundColor = .orange
     }
 
 
